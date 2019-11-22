@@ -6,7 +6,8 @@
   "license": "ISC",
   "scripts": {
     "build": "tsc",
-    "build:check": "tsc --noEmit"
+    "build:check": "tsc --noEmit",
+    "publish": "np"
   },
   "devDependencies": {
     "np": "^5.1.3",
