@@ -1,13 +1,13 @@
 {
   "name": "compform-kit",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An incomplete kit for incomplete projects.",
   "author": "Justin Bakse",
   "license": "ISC",
   "scripts": {
     "build": "tsc",
     "build:check": "tsc --noEmit",
-    "publish": "np"
+    "np": "np"
   },
   "devDependencies": {
     "np": "^5.1.3",
