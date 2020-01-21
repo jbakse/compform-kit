@@ -1,5 +1,5 @@
 function helloKit() {
-  return "Hello, Comp Form!";
+  return "Hello, Comp Form!!";
 }
 
 function randomRange(min: number, max: number): number {
